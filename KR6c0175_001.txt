@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:25.577791
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:58
 #+TITLE: 般若心經小談
 #+PROPERTY: CBETA_ID X26n0556
 #+PROPERTY: ID KR6c0175
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 26, No. 556
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0175_X_001-0880b> 
 #+PROPERTY: JUAN 1
-No.556¶
-
- 心經小談¶
+No. 556¶
+心經小談¶
 明　觀衡　述¶
 
 摩訶般若波羅蜜多心經。此十字乃一經之題目。摩¶
